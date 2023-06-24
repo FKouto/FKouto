@@ -8,8 +8,8 @@
   style="font-family: 'Poppins', sans-serif; 
   font-weight: 700;"
   >About me</h2>
-  <video align="right" height="300px" autoplay style="border-radius: 1rem" muted src="https://cdn.dribbble.com/users/444644/screenshots/17502018/media/0fff26f700b09765cc924f34e26cd08c.mp4"></video>
-  <!--<img  src="https://cdn.dribbble.com/users/444644/screenshots/17502018/media/0fff26f700b09765cc924f34e26cd08c.mp4" /> -->
+  <!--<video align="right" height="300px" autoplay style="border-radius: 1rem" muted src="https://cdn.dribbble.com/users/444644/screenshots/17502018/media/0fff26f700b09765cc924f34e26cd08c.mp4"></video>-->
+  <img  align="right" height="300px" style="border-radius: 1rem" src="[https://cdn.dribbble.com/users/444644/screenshots/17502018/media/0fff26f700b09765cc924f34e26cd08c.mp4](https://cdn.dribbble.com/userupload/6786588/file/original-4bb7fb903cb432b56d84d1be2663b0dc.png?compress=1&resize=1200x900)" />
   <ul>
     <li style="font-family: 'Poppins', sans-serif; 
   font-weight: 400;">📆 18 years.</li>
