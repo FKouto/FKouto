@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoutoDev&show_icons=true&hide=contribs)](https://github.com/KoutoDev/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoutoDev&theme=codeSTACKr&show_icons=true&hide=contribs)](https://github.com/KoutoDev/github-readme-stats)
 <!--
 **KoutoDev/KoutoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
