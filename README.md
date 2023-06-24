@@ -1,4 +1,4 @@
-# Hello, world! I'm Gabriel! 🖖🏻
+# Hello, world! I'm Felipe! 🖖🏻
 <div>
   <h2>About me</h2>
   <img align="right" height="300px" src="https://cdn.dribbble.com/userupload/6786588/file/original-4bb7fb903cb432b56d84d1be2663b0dc.png?compress=1&resize=1200x900"/>
