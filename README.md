@@ -1,5 +1,5 @@
 # Hello, world! I'm Felipe! 🖖🏻
-[!image](https://github.com/KoutoDev/KoutoDev/blob/main/bannerGithub.png?raw=true)
+![image](https://github.com/KoutoDev/KoutoDev/blob/main/bannerGithub.png?raw=true)
 ### About me
 📆 18 years |
 📍 São Paulo, Brazil |
