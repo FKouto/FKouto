@@ -10,4 +10,4 @@ Se você quiser saber mais sobre mim ou meus projetos, pode me encontrar em qual
 ### Tenho Interesse
 <a href="#"><img src="https://skillicons.dev/icons?i=python,typescript,react,scss,javascript" /></a>
 ### Profile's Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoutoDev&theme=dark&show_icons=true&hide=contribs)](https://github.com/KoutoDev/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKouto&show_icons=true&theme=radical)
