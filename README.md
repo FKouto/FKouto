@@ -7,7 +7,7 @@ Se você quiser saber mais sobre mim ou meus projetos, pode me encontrar em qual
 ### Estou estudando
 **Essas são as principais linguagens, tecnologias e frameworks que conheço e estou aprendendo.** <br/> <br/>
 <a href="#"><img src="https://skillicons.dev/icons?i=java,git,mysql,javascript,python" /></a>
-### Tenho Interesse
-<a href="#"><img src="https://skillicons.dev/icons?i=swift,docker" /></a>
+### Pretendo aprender em breve
+<a href="#"><img src="https://skillicons.dev/icons?i=swift,docker,flutter" /></a>
 ### Profile's Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FKouto&show_icons=true&theme=dark)
