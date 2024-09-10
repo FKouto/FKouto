@@ -1,6 +1,6 @@
 ![image](https://github.com/KoutoDev/KoutoDev/blob/main/bannerGithub.png?raw=true)
 ### Sobre mim
-Hey! Sou estudante universitário de Ciência da Computação na Universidade São Judas Tadeu. Atualmente, estou iniciando meu segundo terceiro. <br/> **Fique à vontade para explorar meus repositórios no GitHub** para acompanhar meus projetos e contribuições. **Estou animado para compartilhar meu progresso e aprendizado com a comunidade de desenvolvedores**.
+Hey! Sou estudante universitário de Ciência da Computação na Universidade São Judas Tadeu. Atualmente, estou iniciando meu quarto semestre. <br/> **Fique à vontade para explorar meus repositórios no GitHub** para acompanhar meus projetos e contribuições. **Estou animado para compartilhar meu progresso e aprendizado com a comunidade de desenvolvedores**.
 ### Vamos se conectar!
 Se você quiser saber mais sobre mim ou meus projetos, pode me encontrar em qualquer uma dessas plataformas de mídia social abaixo <br/> <br/>
 <a href = "mailto:koutodev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/felipecoutodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
